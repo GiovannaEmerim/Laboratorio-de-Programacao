@@ -1,0 +1,15 @@
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\bin\Debug\net7.0\AP1.exe
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\bin\Debug\net7.0\AP1.deps.json
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\bin\Debug\net7.0\AP1.runtimeconfig.json
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\bin\Debug\net7.0\AP1.dll
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\bin\Debug\net7.0\AP1.pdb
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\obj\Debug\net7.0\AP1.csproj.AssemblyReference.cache
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\obj\Debug\net7.0\AP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\obj\Debug\net7.0\AP1.AssemblyInfoInputs.cache
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\obj\Debug\net7.0\AP1.AssemblyInfo.cs
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\obj\Debug\net7.0\AP1.csproj.CoreCompileInputs.cache
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\obj\Debug\net7.0\AP1.dll
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\obj\Debug\net7.0\refint\AP1.dll
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\obj\Debug\net7.0\AP1.pdb
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\obj\Debug\net7.0\AP1.genruntimeconfig.cache
+C:\Users\emeri\OneDrive\Área de Trabalho\ads_2semestre\labprogramacao\AP1\obj\Debug\net7.0\ref\AP1.dll
